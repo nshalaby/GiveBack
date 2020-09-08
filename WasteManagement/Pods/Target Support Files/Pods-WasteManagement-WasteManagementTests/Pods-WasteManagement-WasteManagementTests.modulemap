@@ -1,0 +1,6 @@
+framework module Pods_WasteManagement_WasteManagementTests {
+  umbrella header "Pods-WasteManagement-WasteManagementTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
